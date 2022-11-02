@@ -2,4 +2,4 @@
 layout: post
 title: Charlotte RG
 ---
-for details about panpipes visit:
+for details about panpipes visit: coming soon
