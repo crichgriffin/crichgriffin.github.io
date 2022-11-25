@@ -2,4 +2,8 @@
 layout: post
 title: Charlotte RG
 ---
-for details about panpipes visit: coming soon
+
+
+Charlotte Rich-Griffin's website
+
+more info to come.
